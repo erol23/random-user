@@ -13,7 +13,6 @@ const Cards = () => {
     const getData = () => {
         axios.get('https://randomuser.me/api/').then((response)=>{
             setUserCards(response.data.results);
-            console.log(response.data.results);
         })
     }
     useEffect(() => {
@@ -34,7 +33,7 @@ const Cards = () => {
                     <p className='info'>{item.location.state} - {item.location.country}</p>
                     <div className="footer">
                         <p>Age: {item.dob.age}</p>
-                        <p>Register Date: {item.registered.date}</p>
+                        <p>Register Date: {item.registered.date.substr(0, 10)}</p>
                     </div>
                 </div>
             ))}
