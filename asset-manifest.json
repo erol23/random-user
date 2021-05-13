@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/random-user/static/css/main.ca62bcb6.chunk.css",
+    "main.js": "/random-user/static/js/main.c7cef8ad.chunk.js",
+    "main.js.map": "/random-user/static/js/main.c7cef8ad.chunk.js.map",
+    "runtime-main.js": "/random-user/static/js/runtime-main.b19c6e9a.js",
+    "runtime-main.js.map": "/random-user/static/js/runtime-main.b19c6e9a.js.map",
+    "static/js/2.47fef26f.chunk.js": "/random-user/static/js/2.47fef26f.chunk.js",
+    "static/js/2.47fef26f.chunk.js.map": "/random-user/static/js/2.47fef26f.chunk.js.map",
+    "index.html": "/random-user/index.html",
+    "static/css/main.ca62bcb6.chunk.css.map": "/random-user/static/css/main.ca62bcb6.chunk.css.map",
+    "static/js/2.47fef26f.chunk.js.LICENSE.txt": "/random-user/static/js/2.47fef26f.chunk.js.LICENSE.txt",
+    "static/media/email.e1f03bb9.svg": "/random-user/static/media/email.e1f03bb9.svg",
+    "static/media/location.0b7d98ab.svg": "/random-user/static/media/location.0b7d98ab.svg",
+    "static/media/phone.d017e1ae.svg": "/random-user/static/media/phone.d017e1ae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b19c6e9a.js",
+    "static/js/2.47fef26f.chunk.js",
+    "static/css/main.ca62bcb6.chunk.css",
+    "static/js/main.c7cef8ad.chunk.js"
+  ]
+}
